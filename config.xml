@@ -3,14 +3,14 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.phonegap.example"
     versionCode = "10"
-    version     = "0.0.3" >
+    version     = "0.0.1" >
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Crypto for Mortals</name>
+  <name>PureCSS Template</name>
 
   <description>
-      Unlocking the mystery of Bitcoin and cryptocurrency, for mere humans.
+      A responsive template for a website or app. This means it looks good everywhere.
   </description>
 
   <author href="https://crrdlx.github.io/" email="crrdlx@gmail.com">

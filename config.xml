@@ -16,5 +16,7 @@
   <author href="https://crrdlx.github.io/" email="crrdlx@gmail.com">
       crrdlx
   </author>
-
+    
+  <icon src="res/icon.png" />
+    
 </widget>

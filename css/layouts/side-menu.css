@@ -119,7 +119,7 @@ appears on the left side of the page.
         */
         #menu .pure-menu li a:hover,
         #menu .pure-menu li a:focus {
-            background: #333;
+            background: #FF7F50;  /*Coral*/
         }
 
     /*
@@ -127,7 +127,7 @@ appears on the left side of the page.
     */
     #menu .pure-menu-selected,
     #menu .pure-menu-heading {
-        background: #1f8dd6;
+        background: #00CED1;  /*Dark Turquoise*/
     }
         /*
         This styles a link within a selected menu item `<li>`.
@@ -144,6 +144,23 @@ appears on the left side of the page.
         color: #fff;
         margin: 0;
     }
+
+    /* Table formatting */
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+      
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      
+      tr:nth-child(even) {
+        background-color: #dddddd;
+      }
 
 /* -- Dynamic Button For Responsive Menu -------------------------------------*/
 
